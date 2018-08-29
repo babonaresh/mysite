@@ -1,32 +1,30 @@
 <!DOCTYPE html>
-<html>
+
+<section id="Home">
+  <div class="container">
+    <div class="avatar">
 <head>
-	<title></title>
+	<title>Naresh Bashaboena</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
  
 </head>
 <body>
-	<nav class="navbar navbar-default">
+	<nav  style="background-color:lightgreen" class="navbar navbar-default">
   <div class="container-fluid">
+    <h3>
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">MY BLOG</a>
-    </div>
+      <a class="navbar-brand" href="#"><b> MY BLOG </b></a>
+    </div></h3>
 <div >
-	
-	<ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-         <li><a href="#">EDUCATION</a></li>
-      <li><a href="#">PROFESSIONAL EXPERIENCE</a></li>
-      <li><a href="#">ABOUT</a></li>
-      <li><a href="#">CONTACT </a></li>
-
-    </ul>
-    <ul class="nav navbar-nav navbar-right">
-    	<li><a href="#"><span class="glyphicon glyphicon-user"></span>SignUp</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-    	<li></li>
-
-    </ul>
+	<h3>
+	<ul  class="nav navbar-nav">
+     <li style="color:black;" class="active"><a href="#"><b> Home </b></a></li>
+         <li  style="color:black"><a href="edu.html"><b>EDUCATION </b></a></li>
+      <li style="color:black"><a href="exp.html"><b> PROFESSIONALEXPERIENCE</b></a></li>
+      <li style="color:black"><a href="abt.html"><b> ABOUT</a></b></li>
+      <li style="color:black"><a href="cnt.html"><b> CONTACT </b></a></li>
+</ul>
+   </h3>
 </div>
 
 </div>
@@ -35,15 +33,19 @@
 <br/>
 <br/>
 <br/>
-<div>
+
+  
 	<center>
-<img src="naresh.jpg"/ align="center">
+<img style="width:250px;height:250px;" class="img-circle" src="naresh.jpg"/ align="center">
 </center>
 </div>
 
 <div>
-	<p align="center">I Naresh Bahaboena is a studnet at Univrsity of Nebraska at Omaha.</p>
-	<p align="center"> I pursue Masters in Management of Information Systems</p>
-    <p align="center"> Catch me @ *******2130</p>
+	<h2><p  style="color:blue;" style="width:40px;height:40px;" align="center">I Naresh Bahaboena is a studnet at <a href="https://www.unomaha.edu/index.php"> Univrsity of Nebraska at Omaha.</a></p></h2>
+	<h2><p  style="color:blue; le="width:40px;height:40px;" align="center">I pursue Masters in Management of Information Systems</p></h2>
+   <h2> <p  style="color:blue;"  style="width:40px;height:40px;" align="center"> Catch me @ </p></h2>
+   <h3><p align="center"> <a href="http://twitter.com/{{ site.twitter }}"> @{{ site.twitter }}</a>  or by <a href="mailto:{{ site.email }}">email</a>. </p></h3>
+    {% include social.html %}
+   </div> 
 </body>
-</html>
+</Section>
