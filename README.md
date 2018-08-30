@@ -10,13 +10,13 @@ hosted in [Github pages](https://pages.github.com/).
 **Home page**
 ![Home page](https://github.com/babonaresh/mysite/blob/master/img/homepage.PNG).
 **Education page**
-![Education page](https://github.com/babonaresh/mysite/blob/master/img/edupage.PNG).
+![Education page](https://github.com/babonaresh/mysite/blob/master/img/edupage.png).
 **ProfessionalExperience page**
-![ProfessionalExperience page](https://github.com/babonaresh/mysite/blob/master/img/eppage.PNG).
+![ProfessionalExperience page](https://github.com/babonaresh/mysite/blob/master/img/exppage.png).
 **About page**
-![About page](https://github.com/babonaresh/mysite/blob/master/img/abtpage.PNG).
+![About page](https://github.com/babonaresh/mysite/blob/master/img/abtpage.png).
 **Contact page**
-![Contact page](https://github.com/babonaresh/mysite/blob/master/img/cntpage.PNG).
+![Contact page](https://github.com/babonaresh/mysite/blob/master/img/cntpage.png).
 
 
       
