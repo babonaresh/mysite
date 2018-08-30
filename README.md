@@ -8,15 +8,15 @@ hosted in [Github pages](https://pages.github.com/).
 ## This is how my Website looks!
 
 **Home page**
-![Home page](https://github.com/babonaresh/mysite/blob/master/img/homepage.png).
+![Home page](https://github.com/babonaresh/mysite/blob/master/img/homepage.PNG).
 **Education page**
-![Education page](http://babonaresh.github.io/mysite/img/edupage.jpg).
+![Education page](https://github.com/babonaresh/mysite/blob/master/img/edupage.PNG).
 **ProfessionalExperience page**
-![ProfessionalExperience page](https://babonaresh.github.io/babonaresh/mysite/img/exppage.jpg).
+![ProfessionalExperience page](https://github.com/babonaresh/mysite/blob/master/img/eppage.PNG).
 **About page**
-![About page](http://babonaresh.github.io/mysite/img/abtpage.jpg).
+![About page](https://github.com/babonaresh/mysite/blob/master/img/abtpage.PNG).
 **Contact page**
-![Contact page](http://babonaresh.github.io/mysite/img/cntpage.jpg).
+![Contact page](https://github.com/babonaresh/mysite/blob/master/img/cntpage.PNG).
 
 
       
